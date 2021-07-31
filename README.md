@@ -18,7 +18,8 @@
 
 # Informações Importantes
 
-Esse projeto tem como principal importância o desenvolvimento de uma página principal de um chalé-hotel.
+Esse projeto tem como principal importância o desenvolvimento de uma página principal de um chalé-hotel somente com 
+ o uso do HTML5 & CSS3.
 
 # Objetivos do Projeto
 
@@ -27,4 +28,4 @@ Nesta aplicação a intenção foi:
   - Desenvolver uma página principal;
   - Lidar com os diferentes tipos de tags html e propriedades css necessários para a construção da página;
   - Colocar em prática meus primeiros contatos com o CSS3 na estilização da página;
-  - E por fim, desfrutar o máximo possível das tags HTML e propriedades CSS para construir uma prática de uso desses ferramentas.
+  - E por fim, desfrutar o máximo possível das tags HTML e propriedades CSS para construir uma prática de uso dessas ferramentas.
